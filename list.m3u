@@ -1,0 +1,50 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="辽宁体育" 辽宁体育
+http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+#EXTINF:-1 tvg-id="cctv5"tvg-name="cctv5"
+https://stream.iptv-search.com/main.php?id=CCTV5&t=1753977057&token=58cc30fff0d372572fb99cda2b426f28
+#EXTINF:-1 tvg-id="cctv5+" cctv5+
+https://stream.iptv-search.com/main.php?id=CCTV5%2B&t=1753977057&token=6a27d8b6af74b51b357ff003ec6b0b55
+#EXTINF:-1 tvg-id="纬来体育台" 纬来体育台
+https://stream.iptv-search.com/main.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E5%8F%B0&t=1753977057&token=411cde5fa1e70ad9e062bc5c1e8df27a
+#EXTINF:-1 tvg-id="五星体育" 五星体育
+http://218.1.142.106:85/tsfile/live/1010_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="爱体育" 爱体育
+http://156.226.171.32:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" 凤凰中文
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87&t=1753977057&token=9a1c848a6bae7f13ce170483a4070ac1
+#EXTINF:-1 tvg-id="凤凰资讯" 凤凰资讯
+https://stream.iptv-search.com/main.php?id=%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF%E9%AB%98%E6%B8%85&t=1753977057&token=e2ef44f90e3614345743c0b66eda7aa3
+#EXTINF:-1 tvg-id="翡翠北美台" 翡翠北美台
+https://stream.iptv-search.com/main.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0%E5%8C%97%E7%BE%8E%E7%89%88%28TVB+J1%29&t=1753977057&token=7f9fc2e648109178f9b423c6c671ea42
+#EXTINF:-1 tvg-id="华视" 华视
+https://stream.iptv-search.com/main.php?id=%E5%8D%8E%E8%A7%86+CTS+HD&t=1753977057&token=3f5daebb7f53540b996647352b52a91a
+#EXTINF:-1 tvg-id="咪咕" 咪咕
+http://183.220.20.17:4321/udp/239.10.0.19:5140
+#EXTINF:-1 tvg-id="咪咕精彩足球" 咪咕精彩足球
+http://111.43.126.240:9003/hls/103/index.m3u8
+#EXTINF:-1 tvg-id="咪咕24小时体育" 咪咕24小时体育
+http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/tysy201903/75/index.m3u8?&encrypt=
+#EXTINF:-1 tvg-id="中天新闻" 中天新闻
+https://stream.iptv-search.com/main.php?id=%E4%B8%AD%E5%A4%A9%E6%96%B0%E9%97%BB+HD&t=1753977057&token=5fa9fefe16273796c1ac303ba7afcdd0
+#EXTINF:-1 tvg-id="东森新闻" 东森新闻
+https://stream.iptv-search.com/main.php?id=%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB&t=1753977057&token=cb83e2b821f19b0f60f391144d0c8c88
+#EXTINF:-1 tvg-id="美亚c" 美亚c
+https://stream.iptv-search.com/main.php?id=%E7%BE%8E%E4%BA%9AC%2B&t=1753977057&token=f902e9ee75e33fd4dad74d70af7402e3
+#EXTINF:-1 tvg-id="阿里郎" 阿里郎
+https://stream.iptv-search.com/main.php?id=%E9%98%BF%E9%87%8C%E9%83%8E+Arirang&t=1753977057&token=0df9586273c0896f3c8285d47ab84e0d
+#EXTINF:-1 tvg-id="戏剧影视" 戏剧影视
+https://stream.iptv-search.com/main.php?id=%E8%A5%BF%E5%AE%89%E6%88%8F%E5%89%A7%E5%BD%B1%E8%A7%86&t=1753977057&token=1b30966ce74b7dc54f085c804df907ca
+#EXTINF:-1 tvg-id="eyetv戏剧" eyetv戏剧
+https://stream.iptv-search.com/main.php?id=EYETV+%E6%88%8F%E5%89%A7&t=1753977057&token=0a6d3753fe3ab4f4a70ff9ef14ac6bbf
+#EXTINF:-1 tvg-id="八大戏剧台" 八大戏剧台
+https://stream.iptv-search.com/main.php?id=%E5%85%AB%E5%A4%A7%E6%88%8F%E5%89%A7&t=1753977057&token=9bf89a8880b3c93ae3322793a25c59af
+#EXTINF:-1 tvg-id="CCTV15" CCTV15
+https://stream.iptv-search.com/main.php?id=CCTV15&t=1753977057&token=380989ebe046a42a4c386210d1ec2e2e#EXTINF:-1 
+#EXTINF:-1 tvg-id="tvbplus" tvbplus
+https://stream.iptv-search.com/main.php?id=TVB+Plus&t=1753977057&token=dea831adb2ab5aea7c76a5f1f0bfa490
+#EXTINF:-1 tvg-id="tvb欢乐台" tvb欢乐台
+https://stream.iptv-search.com/main.php?id=TVBS&t=1753977057&token=5fd64670a251ae2c9c2a4a3f03b9e396
+#EXTINF:-1 tvg-id="河南戏曲" 河南戏曲
+https://live.yzd.jialiangos.com:4443/live/fhw/200
