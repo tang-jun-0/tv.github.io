@@ -1,7 +1,7 @@
 #EXTM3U 
 
 #EXTINF:-1 tvg-id="辽宁体育" 辽宁体育
-http://fxgm.fxjf.work:19901/tsfile/live/1003_1.m3u8
+http://sh.lnott.top:880/dx22.m3u8
 #EXTINF:-1 tvg-id="cctv5"tvg-name="cctv5"
 https://stream.iptv-search.com/main.php?id=CCTV5&t=1753977057&token=58cc30fff0d372572fb99cda2b426f28
 #EXTINF:-1 tvg-id="cctv5+" cctv5+
